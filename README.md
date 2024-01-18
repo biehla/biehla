@@ -1,4 +1,9 @@
 ### Hi there 👋
+I make things
+- Hard things and Soft things, and sometimes both together
+- Lifelong tinkerer
+- Language hopper
+
 
 <!--
 **biehla/biehla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
